@@ -2,7 +2,7 @@
 
 - Estudante de Sistemas de Informação e desenvolvedor em Python , curioso e apaixonado pela tecnologia.<br>
 - Conheci o framework Django e estudei os seus recursos, agora utiliza-o em minhas aplicações webs.<br>
-- Desenvolvendo novas skils através do aprendizado em JavaScript, onde me encontro com grandes expectativas.<br>
+- Desenvolvendo novas skils através do Node.js para o desenvolvimento web, onde me encontro com grandes expectativas.<br>
 - Quer falar comigo ou só tirar uma duvida ? Entre em contato pelo <a href="https://www.linkedin.com/in/matheus-bonani">Linkedin</a> !!!
 
  
