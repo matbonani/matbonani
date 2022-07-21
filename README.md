@@ -7,7 +7,7 @@
  
  <div style="display: "flex" ">
   <a href="https://github.com/matbonani">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=matbonani&show_icons=true&theme=onedark"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?-username=matbonani&show_icons=true&theme=onedark"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matbonani&layout=compact&theme=onedark&hide=procfile"/>
 </div>
 
